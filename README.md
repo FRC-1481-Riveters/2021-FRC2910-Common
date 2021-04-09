@@ -58,3 +58,8 @@ The following also needs to be added to your `settings.gradle` file:
 include ':common'
 include ':common:robot'
 ```
+### BUILDING
+
+You'll probably need to build in the common folder too:
+- in the VS Code Terminal window, cd to the common folder and .\gradlew
+- if anything goes wrong, you may also need to .\gradlew clean 
