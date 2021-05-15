@@ -6,5 +6,5 @@ public class Constants {
      */
     public static final int CAN_TIMEOUT_MS = 20;
 
-    public static final double DEADBAND_RANGE = 0.05;
+    public static final double DEADBAND_RANGE = 0.15;
 }
